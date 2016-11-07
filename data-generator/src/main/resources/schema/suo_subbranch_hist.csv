@@ -1,0 +1,21 @@
+suo_subbranch_hist;subbranch_id;NUMBER not null
+suo_subbranch_hist;subbranch_parent_id;NUMBER
+suo_subbranch_hist;subbranch_type;NUMBER not null
+suo_subbranch_hist;terbank;VARCHAR2(3)
+suo_subbranch_hist;gosb;VARCHAR2(5)
+suo_subbranch_hist;branch;VARCHAR2(5)
+suo_subbranch_hist;subbranch;VARCHAR2(7)
+suo_subbranch_hist;subbranch_name;VARCHAR2(4000)
+suo_subbranch_hist;subbranch_short_name;VARCHAR2(4000)
+suo_subbranch_hist;subbranch_address;VARCHAR2(4000)
+suo_subbranch_hist;subbranch_cd;VARCHAR2(13) not null
+suo_subbranch_hist;subbranch_parent_cd;VARCHAR2(13)
+suo_subbranch_hist;suo_flg;NUMBER
+suo_subbranch_hist;suo_id;NUMBER
+suo_subbranch_hist;enabled_flg;NUMBER not null
+suo_subbranch_hist;vendor_id;NUMBER
+suo_subbranch_hist;effective_from_dttm;DATE not null
+suo_subbranch_hist;effective_to_dttm;DATE not null
+suo_subbranch_hist;deleted_flg;NUMBER default 0 not null
+suo_subbranch_hist;suo_old_format_flg;NUMBER
+suo_subbranch_hist;counter_cnt;NUMBER

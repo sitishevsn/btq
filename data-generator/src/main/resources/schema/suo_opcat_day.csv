@@ -1,0 +1,22 @@
+suo_opcat_day;subbranch_id;NUMBER not null
+suo_opcat_day;opcat_id;NUMBER not null
+suo_opcat_day;business_dttm;DATE not null
+suo_opcat_day;cust_reg_cnt;NUMBER not null
+suo_opcat_day;cust_serv_cnt;NUMBER not null
+suo_opcat_day;cust_drop_cnt;NUMBER not null
+suo_opcat_day;cust_call_cnt;NUMBER not null
+suo_opcat_day;cust_wait_in_cnt;NUMBER not null
+suo_opcat_day;cust_wait_out_cnt;NUMBER not null
+suo_opcat_day;total_wait_time;NUMBER not null
+suo_opcat_day;total_cust_wait_cnt;NUMBER not null
+suo_opcat_day;total_serv_time;NUMBER not null
+suo_opcat_day;total_cust_serv_cnt;NUMBER not null
+suo_opcat_day;terbank_subbranch_id;NUMBER not null
+suo_opcat_day;cust_serv_in_cnt;NUMBER not null
+suo_opcat_day;cust_serv_out_cnt;NUMBER not null
+suo_opcat_day;total_serv_iterations;NUMBER
+suo_opcat_day;rate_serv_iterations_cnt;NUMBER
+suo_opcat_day;positive_ratings_cnt;NUMBER
+suo_opcat_day;negative_ratings_cnt;NUMBER
+suo_opcat_day;cust_transfer_cnt;NUMBER
+suo_opcat_day;cust_delay_cnt;NUMBER

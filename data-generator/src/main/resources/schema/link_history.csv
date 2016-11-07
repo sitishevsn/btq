@@ -1,0 +1,9 @@
+link_history;Phone;VARCHAR2(20)
+link_history;ID_NUM;VARCHAR2(60)
+link_history;ChangeDate;VARCHAR2(50)
+link_history;OnOff;NUMBER(1);
+link_history;ChangeType;VARCHAR2(8)
+link_history;PaymentBlockID;NUMBER(1)
+link_history;LinkNotificationState;NUMBER(1)
+link_history;LinkID;NUMBER(4)
+link_history;RID;NUMBER(8)

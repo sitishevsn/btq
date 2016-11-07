@@ -1,0 +1,16 @@
+PhoneHistory;TokenID;NUMBER
+PhoneHistory;ACC;NUMBER(4)
+PhoneHistory;PhoneID;NUMBER(4)
+PhoneHistory;UniqCardDigits;NUMBER(4);
+PhoneHistory;PhoneType;NUMBER(4);
+PhoneHistory;PushInform;NUMBER(4);
+PhoneHistory;BlockCode;NUMBER(4);
+PhoneHistory;UserID;VARCHAR2(50)
+PhoneHistory;OperatorID;VARCHAR2(1)
+PhoneHistory;PhoneSecureID;VARCHAR2(10)
+PhoneHistory;ChangeType;VARCHAR2(1)
+PhoneHistory;SMSPwdGenerationTime;VARCHAR2(50)
+PhoneHistory;ChangeDate;VARCHAR2(50)
+PhoneHistory;PhoneNumber;VARCHAR2(20)
+PhoneHistory;ICCID;VARCHAR2(20)
+PhoneHistory;OnOff;NUMBER(4)

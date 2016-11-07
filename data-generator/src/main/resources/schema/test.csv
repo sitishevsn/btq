@@ -1,0 +1,8 @@
+user_links;link_number;VARCHAR(10)
+user_links;link_name;VARCHAR(5)
+bill_doc_podr;C_69;NUMBER(16)
+bill_doc_podr;REF29;NUMBER
+bill_doc_podr;C_22;NUMBER(30,10)
+user_links;closed_state;DATE
+user_links;ods$validfrom;TIMESTAMP
+PhoneHistory;PhoneNumber;VARCHAR2(20)

@@ -1,0 +1,17 @@
+suo_opcat_hist;opcat_id;NUMBER not null
+suo_opcat_hist;opcat_name;VARCHAR2(256)
+suo_opcat_hist;opcat_name_add;VARCHAR2(1000)
+suo_opcat_hist;prefix;VARCHAR2(1)
+suo_opcat_hist;prefix_np;VARCHAR2(1)
+suo_opcat_hist;prefix_p;VARCHAR2(1)
+suo_opcat_hist;active_flg;NUMBER not null
+suo_opcat_hist;calculation_flg;NUMBER not null
+suo_opcat_hist;enabled_flg;NUMBER not null
+suo_opcat_hist;distribute_flg;NUMBER not null
+suo_opcat_hist;effective_from_dttm;DATE not null
+suo_opcat_hist;effective_to_dttm;DATE not null
+suo_opcat_hist;deleted_flg;NUMBER default 0 not null
+suo_opcat_hist;algorithm_antifraud_id;NUMBER
+suo_opcat_hist;position;NUMBER
+suo_opcat_hist;opcat_type;NUMBER
+suo_opcat_hist;groups_opcat_id;NUMBER
